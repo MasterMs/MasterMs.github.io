@@ -1,0 +1,31 @@
+html{
+	font-family: Consolas;
+	padding: 5%;
+}
+
+h1{
+	font-size: 200px;
+}
+
+#nav_bar{
+	align-content: center;
+	text-align: center;
+	vertical-align: center;
+	font-size: 25px;
+	color: white;
+	margin: -7% -10%  -5% -10%;
+	height: 120px;
+	background-color: black;
+}
+
+#marco_head{
+	float: right;
+  	padding-left: 500px;
+  	padding-right: 2%;
+}
+
+#logo{
+	margin-top: -35%;
+	float: left;
+	border:solid;
+}
