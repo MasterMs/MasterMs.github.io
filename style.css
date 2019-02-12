@@ -23,7 +23,11 @@ h1{
 }
 
 #marco_head{
-  	padding-right: 2%;
+  	padding-right: 5%;
+}
+
+a:visited{
+	color: darkgrey; 
 }
 
 #logo{
