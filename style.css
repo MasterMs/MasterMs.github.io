@@ -12,28 +12,40 @@ h1{
 }
 
 #nav_bar{
-	align-content: center;
 	text-align: center;
-	vertical-align: center;
 	font-size: 25px;
-	color: white;
-	margin: -7% -10%  -5% -10%;
-	height: 120px;
-	background-color: black;
+	color: white; 
+	margin-top: -5%;
+	margin-bottom: -5%;
 }
 
 #marco_head{
   	padding-right: 5%;
 }
 
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+  }
+
+li {
+	display: inline;
+}
+
+a{
+	color: grey;
+}
+
 a:visited{
-	color: darkgrey; 
+	color: inherit; 
 }
 
 #logo{
 	margin-top: -35%;
 	float: left;
-	border:solid;
+	border: solid;
 }
 
 input[type=text] {
